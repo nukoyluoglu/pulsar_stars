@@ -1,0 +1,4 @@
+# Application of machine learning methods to identify and categorize radio pulsar signal candidates
+A pulsar star is a high mass star that collapses into a neutron star and spins increasingly rapidly, emitting intense electromagnetic radiation. The beams of energy emitted by the pulsar star are detected as radio waves by our telescopes. Their unique integrated electromagnetic radiation profile and strongly periodic received signal allows for classification and flagging of pulsars from a set of noise and Radio Frequency Interference (RFI) signals. However, radio pulsar surveys produce many more pulsar candidate signals than can be inspected by human experts by hand. Here, we investigate the application of various machine learning methods to the problem of automatic pulsar identification.
+
+The paper can be found [here](https://github.com/nukoyluoglu/pulsar_stars/blob/master/pulsar_stars_paper.pdf).
